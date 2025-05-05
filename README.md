@@ -1,3 +1,5 @@
-# TATA
+# TATA - Data Visualisation: Empowering Business with Effective Insights
 Job Simulation by Forage <br>
-Data Visualisation: Empowering Business with Effective Insights
+Completed a simulation involving creating data visualizations for Tata Consultancy Services.<br>
+Prepared questions for a meeting with client senior leadership.<br>
+Created visuals for data analysis to help executives with effective decision making.
